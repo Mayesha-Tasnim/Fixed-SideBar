@@ -207,10 +207,10 @@ body {
   .bar {
     display: block;
   }
-  .res-sidebar i {
+  .res-sidebar .sidebar-items a i {
     font-size: 15px;
   }
-  .res-sidebar span {
+  .res-sidebar .sidebar-items a span {
     font-size: 15px;
   }
 }
@@ -238,10 +238,10 @@ body {
   .bar {
     display: block;
   }
-  .res-sidebar i {
+  .res-sidebar .sidebar-items a i {
     font-size: 20px;
   }
-  .res-sidebar span {
+  .res-sidebar .sidebar-items a span {
     font-size: 20px;
   }
 }
@@ -269,10 +269,10 @@ body {
   .bar {
     display: block;
   }
-  .res-sidebar i {
+  .res-sidebar .sidebar-items a i {
     font-size: 25px;
   }
-  .res-sidebar span {
+  .res-sidebar .sidebar-items a span {
     font-size: 25px;
   }
 }
@@ -300,10 +300,10 @@ body {
   .bar {
     display: none;
   }
-  .res-sidebar i {
+  .res-sidebar .sidebar-items a i {
     font-size: 25px;
   }
-  .res-sidebar span {
+  .res-sidebar .sidebar-items a span {
     font-size: 25px;
   }
 }
@@ -331,10 +331,10 @@ body {
   .bar {
     display: none;
   }
-  .res-sidebar i {
+  .res-sidebar .sidebar-items a i {
     font-size: 25px;
   }
-  .res-sidebar span {
+  .res-sidebar .sidebar-items a span {
     font-size: 25px;
   }
 }
